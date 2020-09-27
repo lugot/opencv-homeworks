@@ -1,4 +1,4 @@
-This repository contains the lab experiences and a project made during the
+This repository contains the lab experiences and a project made in the
 Computer Vision course (University of Padua, a.a. 19/20, second semester)
 implemented in OpenCV. 
 
